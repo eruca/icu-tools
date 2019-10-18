@@ -1,5 +1,5 @@
 const config = {
-  projectName: 'myApp',
+  projectName: 'icu-tools',
   date: '2019-7-29',
   designWidth: 750,
   deviceRatio: {
