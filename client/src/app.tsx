@@ -26,8 +26,8 @@ class App extends Component {
    */
   config: Config = {
     pages: [
-      "pages/index/index",
       "pages/home/index",
+      "pages/index/index",
       "pages/gcs/index",
       "pages/gcsVis/index",
       "pages/apache2/index"
